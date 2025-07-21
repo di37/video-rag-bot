@@ -7,7 +7,7 @@
 Have you ever wanted to find that specific moment in a video where someone explained a concept? Or search through hours of video content as easily as searching text? This educational project shows you how to build a production-ready video search engine that lets you query video content using natural language or even images.
 
 ![Video RAG Demo](https://img.shields.io/badge/Video-RAG-blue)
-![Python](https://img.shields.io/badge/Python-3.8%2B-green)
+![Python](https://img.shields.io/badge/Python-3.12%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Educational](https://img.shields.io/badge/Purpose-Educational-purple)
 
@@ -41,7 +41,7 @@ We're creating a **Video RAG (Retrieval-Augmented Generation)** system that:
 
 Before we start, make sure you have:
 
-- Python 3.8+
+- Python 3.12+
 - Docker and Docker Compose
 - FFmpeg (for video processing)
 - 4GB+ free disk space
