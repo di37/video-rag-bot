@@ -180,7 +180,6 @@ video-downloads/
 *.ogg
 
 # Extracted frames and screenshots
-screenshots/
 frames/
 video_frames/
 *.jpg

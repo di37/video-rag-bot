@@ -13,7 +13,7 @@ Have you ever wanted to find that specific moment in a video where someone expla
 
 ## 📸 Live Demo
 
-![Video RAG Interface](docs/images/main-interface.png)
+![Video RAG Interface](screenshots/images/main-interface.png)
 *Beautiful web interface with multi-video search, YouTube downloading, and real-time statistics*
 
 ## 🚀 What We're Building
@@ -75,10 +75,10 @@ python main.py download "https://youtu.be/VIDEO_ID_1" --auto-index
 python main.py download "https://youtu.be/VIDEO_ID_2" --auto-index
 ```
 
-![YouTube Download Interface](docs/images/download-interface.png)
+![YouTube Download Interface](screenshots/images/download-interface.png)
 *Easy-to-use web interface for downloading YouTube videos with configurable frame extraction*
 
-![Video Library Management](docs/images/manage-interface.png)
+![Video Library Management](screenshots/images/manage-interface.png)
 *Comprehensive video library management with metadata, search shortcuts, and deletion options*
 
 **Alternative**: Manual video preparation (if needed):
@@ -114,7 +114,7 @@ python app.py
 
 Then open http://localhost:7777 in your browser for a beautiful search interface!
 
-![Search Results Demo](docs/images/search-results.png)
+![Search Results Demo](screenshots/images/search-results.png)
 *Intelligent semantic search finds relevant frames across multiple videos with timestamp links*
 
 #### Option B: Command Line
