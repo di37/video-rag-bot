@@ -162,7 +162,6 @@ cython_debug/
 # ========================
 
 # Video files and downloads
-video-downloads/
 *.mp4
 *.avi
 *.mov
@@ -182,12 +181,13 @@ video-downloads/
 # Extracted frames and screenshots
 frames/
 video_frames/
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.tiff
-*.gif
+# Allow screenshots folder contents
+# *.jpg
+# *.jpeg
+# *.png
+# *.bmp
+# *.tiff
+# *.gif
 
 # Video metadata
 video_metadata.json
