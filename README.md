@@ -51,7 +51,7 @@ Before we start, make sure you have:
 ### 1. Clone and Setup
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/di37/video-rag-bot.git
 cd video-rag
 pip install -r requirements.txt
 ```
